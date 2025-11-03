@@ -1,3 +1,9 @@
+
+Dependencies:
+
+pip install opencv-python mediapipe numpy pyautogui
+
+
 MUST HAVE A WEBCAM TO USE:
 
 This project allows users to scroll through sites and use features such as Instagram Reels without any us of the hands. 
