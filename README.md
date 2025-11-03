@@ -1,7 +1,7 @@
 
 Dependencies:
 
-pip install opencv-python mediapipe numpy pyautogui
+*pip install opencv-python mediapipe numpy pyautogui*
 
 
 MUST HAVE A WEBCAM TO USE:
